@@ -1,0 +1,15 @@
+C:\Aulas - 2º semestre\AED 1\bin\Debug\net8.0\AED 1.exe
+C:\Aulas - 2º semestre\AED 1\bin\Debug\net8.0\AED 1.deps.json
+C:\Aulas - 2º semestre\AED 1\bin\Debug\net8.0\AED 1.runtimeconfig.json
+C:\Aulas - 2º semestre\AED 1\bin\Debug\net8.0\AED 1.dll
+C:\Aulas - 2º semestre\AED 1\bin\Debug\net8.0\AED 1.pdb
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\AED 1.csproj.AssemblyReference.cache
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\AED 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\AED 1.AssemblyInfoInputs.cache
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\AED 1.AssemblyInfo.cs
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\AED 1.csproj.CoreCompileInputs.cache
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\AED 1.dll
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\refint\AED 1.dll
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\AED 1.pdb
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\AED 1.genruntimeconfig.cache
+C:\Aulas - 2º semestre\AED 1\obj\Debug\net8.0\ref\AED 1.dll
