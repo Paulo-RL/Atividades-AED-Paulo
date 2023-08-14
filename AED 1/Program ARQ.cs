@@ -2,8 +2,6 @@
 using System.IO;
 using System.Text;
 
-//Fiz gambiarra, mas deu certo, não sei mexer nisso direito então posso ter cometido erros
-
 
 string [] nomes = {"Perna Longa", "Pluto", "Mickey", "Bob Esponja", "Cebolinha"};
 int [] voto = {0,0,0,0,0};
@@ -13,10 +11,10 @@ try
     string caminhoArquivo = @"C:\Aulas - 2º semestre\AED 1\votos.txt";
     if (File.Exists(caminhoArquivo))
     {
-        StreamReader votos = new StreamReader(caminhoArquivo, Encoding.UTF8);
-            string conteudo = votos.ReadLine();
-            while(conteudo!= null){
-            switch(conteudo){
+            string [] conteudo= File.ReadAllLines(caminhoArquivo);
+            Console.Clear();
+            foreach(string l in conteudo){
+            switch(l){
                 case "0":
                     voto[0]+=1;
                     break;
@@ -36,11 +34,9 @@ try
                     nulo+=1;
                     break;
             }
-            conteudo = votos.ReadLine();
             }
         int MA= MaisVotos(voto);
         int ME = MenosVotos(voto);
-        Console.Clear();
         Console.WriteLine($"O personagem mais votado é {nomes[MA]} com {voto[MA]} votos");
         Console.WriteLine();
         Thread.Sleep(2000);
