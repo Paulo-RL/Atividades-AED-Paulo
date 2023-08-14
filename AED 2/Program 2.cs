@@ -1,4 +1,4 @@
-﻿/* int [] x  = new int [5];
+﻿int [] x  = new int [5];
 int [] y = new int [5];
 
 for(int i=0;i<x.Length;i++){
@@ -32,4 +32,4 @@ switch(op){
             Console.WriteLine($"{i+1}º resultado {resultado}");
         }
         break;
-} */
+}

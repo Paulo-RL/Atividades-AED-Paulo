@@ -1,4 +1,4 @@
-﻿/* double [] n= new double[5];
+﻿double [] n= new double[5];
 for(int i=0; i < n.Length;i++){
     Console.WriteLine($"Digite o {i+1}º número");
     n[i]=Convert.ToDouble(Console.ReadLine());
@@ -27,4 +27,3 @@ static double Menor(double [] n){
     }
     return m;
 }
- */

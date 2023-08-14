@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text;
 
-/* Fiz gambiarra, mas deu certo, não sei mexer nisso direito então posso ter cometido erros */
+//Fiz gambiarra, mas deu certo, não sei mexer nisso direito então posso ter cometido erros
 
 
 string [] nomes = {"Perna Longa", "Pluto", "Mickey", "Bob Esponja", "Cebolinha"};

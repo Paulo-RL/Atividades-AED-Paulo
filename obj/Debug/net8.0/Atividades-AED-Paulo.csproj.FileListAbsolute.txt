@@ -1,0 +1,15 @@
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\Atividades-AED-Paulo.csproj.AssemblyReference.cache
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\Atividades-AED-Paulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\Atividades-AED-Paulo.AssemblyInfoInputs.cache
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\Atividades-AED-Paulo.AssemblyInfo.cs
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\Atividades-AED-Paulo.csproj.CoreCompileInputs.cache
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\bin\Debug\net8.0\Atividades-AED-Paulo.exe
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\bin\Debug\net8.0\Atividades-AED-Paulo.deps.json
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\bin\Debug\net8.0\Atividades-AED-Paulo.runtimeconfig.json
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\bin\Debug\net8.0\Atividades-AED-Paulo.dll
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\bin\Debug\net8.0\Atividades-AED-Paulo.pdb
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\Atividades-AED-Paulo.dll
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\refint\Atividades-AED-Paulo.dll
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\Atividades-AED-Paulo.pdb
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\Atividades-AED-Paulo.genruntimeconfig.cache
+C:\Users\Nandinha\Documents\GitHub\Atividades-AED-Paulo\obj\Debug\net8.0\ref\Atividades-AED-Paulo.dll

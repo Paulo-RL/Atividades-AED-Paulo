@@ -1,4 +1,4 @@
-﻿/* int [,] x  = new int [4,4];
+﻿int [,] x  = new int [4,4];
 int nulo=0, conulo=0;
 for(int i=0;i<4;i++){
     for(int j=0;j<4;j++){
@@ -15,4 +15,4 @@ for(int i=0;i<4;i++){
     }
 }
 Console.WriteLine(@$"Esta matriz tem {nulo} linha(s) nula(s)
-Esta matriz tem {conulo} coluna(s) nula(s)"); */
+Esta matriz tem {conulo} coluna(s) nula(s)");

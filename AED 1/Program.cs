@@ -1,4 +1,4 @@
-﻿/* double [] num= new double[5];
+﻿double [] num= new double[5];
 Console.WriteLine("Digite 5 valores para o vetor");
 for(int i=0; i< num.Length;i++){
     num[i]= Convert.ToDouble(Console.ReadLine());
@@ -63,4 +63,4 @@ static double CalcularMedia(double[]Vetor){
     }
     double media= soma/Vetor.Length;
     return media;
-} */
+}
